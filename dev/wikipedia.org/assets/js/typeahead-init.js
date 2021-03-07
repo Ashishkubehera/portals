@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 /* global wmTest, WMTypeAhead, _, addEvent */
 
 ( function ( wmTest, WMTypeAhead ) {
